@@ -1,4 +1,4 @@
-# Twitter-sentiment-analysis-
+# Twitter-sentiment-analysis
 This project involves developing a Twitter Sentiment Analysis tool using Tweepy, a Python library for accessing the Twitter API. The tool will allow users to pull tweets related to specific keywords, analyze the sentiment of the tweets (positive, negative, or neutral), and visualize the results. This project is ideal for understanding public opinion on various topics, tracking trends, or even monitoring brand sentiment over time.
 
 Technologies Used:
